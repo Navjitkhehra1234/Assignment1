@@ -1,0 +1,217 @@
+/* page 1 */
+
+
+.page1 .main-div {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color:salmon;
+    box-sizing: border-box;
+    background: rgb(255, 255, 4);   
+}
+
+.page1 h1{
+    background: rgb(199,100,18);
+    height: 50px;
+    padding-top: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+.page1 h2{
+    background: rgb(6, 97, 124);
+    text-align: center;
+}
+.page1 .link-div{
+    height: 45px;
+    text-align: center;
+    background:rgba(255,238,133);
+    color: rgb(110,178,149);
+    font-size:20px;
+    padding-top: 25px;
+}
+.page1 a{
+   margin-right: 40px;
+   background-color: black;
+   padding: 5px;
+   color: cornflowerblue;
+}
+
+/* page 2 */
+
+
+.page2 .main-div {
+    font-family: 'Roboto', sans-serif;
+    color:rgb(0, 155, 186);
+    box-sizing: border-box;
+    background: black;   
+    font-family: 'Noto Serif JP', sans-serif;
+    font-size: 20px;
+}
+
+.page2 h1{
+    background: rgb(60, 189, 0);
+    height: 50px;
+    padding-top: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+.page2 h2{
+    background:rgb(204, 0, 160);
+    text-align: center;
+}
+
+.page2 .link-div{
+    height: 45px;
+    text-align: center;
+    background:rgba(255,238,133);
+    color: rgb(12, 0, 179);
+    font-size:20px;
+    padding-top: 25px;
+}
+.page2 a{
+   margin-right: 40px;
+   /*background-color: yellow;*/
+   padding: 5px;
+   color: cornflowerblue;
+}
+
+
+/* page 3 */
+
+
+
+.page3 .main-div {
+    font-family: 'Roboto', sans-serif;
+    color:rgb(0, 155, 186);
+    box-sizing: border-box;
+    background: rgb(194, 189, 189);  
+    font-size: 22px; 
+}
+
+.page3 h1{
+    background: rgb(100, 121, 91);
+    height: 50px;
+    padding-top: 5px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+.page3 h2{
+    background:rgb(79, 79, 104);
+    text-align: center;
+}
+ .page3 .link-div{
+    height: 45px;
+    text-align: center;
+    background:rgba(255,238,133);
+    color: rgb(12, 0, 179);
+    font-size:20px;
+    padding-top: 25px;
+}
+.page3 a{
+   margin-right: 40px;
+   background-color: rgb(196, 196, 13);
+   padding: 5px;
+   color: cornflowerblue;
+}
+
+
+/* page 4 */
+
+
+
+.page4 .main-div {
+    font-family: 'Roboto', sans-serif;
+    color:rgb(198, 252, 4);
+    box-sizing: border-box;
+    background: rgb(247, 0, 0);   
+    
+    font-size: 20px;
+}
+
+.page4 h1{
+    background: rgb(18, 58, 0);
+    height: 50px;
+    padding-top: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+.page4 h2{
+    background:rgb(255, 7, 201);
+    text-align: center;
+}
+
+.page4 .link-div{
+    height: 45px;
+    text-align: center;
+    background:rgba(255,238,133);
+    color: rgb(12, 0, 179);
+    font-size:20px;
+    padding-top: 25px;
+}
+
+.page4 a{
+   margin-right: 40px;
+   background-color: yellow;
+   padding: 5px;
+   color: cornflowerblue;
+}
+
+
+/* page 5 */
+
+
+
+@font-face{
+    font-family: 'fun-font', sans-serif;
+    src: url(font/Comfortaa-Bold.ttf);
+}
+
+.page5 .main-div {
+    font-family: 'Roboto';
+    color:rgb(0, 155, 186);
+    box-sizing: border-box;
+    background: rgb(126, 72, 72); 
+    font-family: 'fun-font', sans-serif; 
+    font-size: 18px;
+    
+}
+
+.page5 h1{
+    background: rgb(89, 131, 68);
+    height: 50px;
+    padding-top: 5px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+.page5 h2{
+    background:rgb(212, 51, 177);
+    text-align: center;
+}
+
+.page5 .link-div{
+    
+    height: 45px;
+    text-align: center;
+    background:rgba(255,238,133);
+    color: rgb(21, 18, 68);
+    font-size:20px;
+    padding-top: 25px;
+    
+}
+
+.page5 a{
+   margin-right: 40px;
+   background-color: yellow;
+   padding: 5px;
+   color: rgb(0, 88, 252);
+}
+
+
+
+
+  
+  
+
+
+  
